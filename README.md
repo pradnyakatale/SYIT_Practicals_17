@@ -1,4 +1,4 @@
-SYTI Practicals 
+SYIT Practicals 
 
 Name : Pradnya Katale
 Class : SYIT
